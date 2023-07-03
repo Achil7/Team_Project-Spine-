@@ -1,2 +1,2 @@
-# Team_Project-Spine-
-SW_Membership_BIGDATA_Team_Project(Spine Data)
+# SW_Membership_BIGDATA_
+팀_프로젝트 (의료 데이터)
